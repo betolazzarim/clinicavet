@@ -1,0 +1,57 @@
+body{
+	
+	background-color: #1E90FF; 
+}
+
+.content{
+	background-color: #FBC02D77;
+	border-radius: 10px;
+	
+	margin: 20px;
+	width: 290px;
+	height: 260px; 
+}
+
+.x{
+	margin: 10px;
+	width: 250px;
+	height: 30px;
+	padding: 5px;
+	
+}
+
+.btcadastrar	{
+	color: white;
+	border:none;
+	background-color: #388E3C;
+	font-size: 17px;
+	border-radius:5px;
+	
+}
+
+.btrecuperar {
+	color: white;
+	border:none;
+	background-color: #ff0000;
+	font-size: 17px;
+	border-radius:5px;
+	
+}
+
+
+.btcancelar{
+	color: white;
+	border:none;
+	background-color: red;
+	font-size: 20px;
+}
+
+.btvoltar{
+	color:white;
+	border:none;
+	background-color: blue;
+	font-size: 20px;
+}
+
+
+
